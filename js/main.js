@@ -1,6 +1,7 @@
 // Importar nuestros Modulos
 import Items from "./modules/add-remove.js";
 import ToDoItem from "./modules/item-contructor.js";
+import LocalStorage from "./modules/local-storage.js";
 
 
 // Constantes iniciales 
