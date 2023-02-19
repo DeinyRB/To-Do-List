@@ -1,3 +1,7 @@
+// Importar nuestros Modulos
+import ToDoItem from "./modules/item-contructor.js";
+
+
 // Constantes iniciales 
 const main = document.getElementById('main');
 const form = document.getElementById('form');
